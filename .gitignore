@@ -20,3 +20,4 @@
 # Spec housekeeping
 /spec/rspec-status.txt
 /spec/reports
+.idea/
